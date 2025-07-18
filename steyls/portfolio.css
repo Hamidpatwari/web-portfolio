@@ -135,3 +135,29 @@ nav ul{
  .section-p{
   padding: 50px;
  }
+ /* resume style  */
+ .resume-container{
+  display: flex;
+  gap: 24px;}
+ /* colum style */
+ .resume-column-title{
+  font-size: 30px;
+color: #474747;
+ }
+ .experience-title{
+  font-size: 25px;
+  color: #474747
+  
+ }
+.experince-sub-title{
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+ .experince-sub-title, .experince-description{
+color: #757575;
+ }
+ /* button style */
+ .resum-down-cv{
+  margin-top: 50px;
+ }
